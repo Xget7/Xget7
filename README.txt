@@ -6,8 +6,8 @@
 
 - 💻 **Android Engineer**: Proficient in Kotlin, Java, Jetpack Compose, and cutting-edge Android technologies.
 - 📍 **From Argentina**: Proud of my roots, but also hold the right to work in the EU 🌍.
-- ⚡ **Tech Enthusiast**: I love working with **Kotlin**, **ROS**, and developing innovative solutions in robotics and embedded systems.
-- 🌐 **Languages**: English (C1).
+- ⚡ **Tech Enthusiast**: I love working with Kotlin ,Jetpack Compsose , Android and developing innovative solutions in robotics and embedded systems.
+- 🌐 **Languages**: English (B2).
 
 ---
 
@@ -20,30 +20,40 @@
 - **Fullstack**: Typescript, Ruby.
 
 ---
-
 ## 🎯 Professional Highlights
 
-### [Rogers Bank App](https://play.google.com/store/apps/details?id=com.rogers.banking)  
-**Senior Android Developer @ Havas CX Canada (May 2024 – Jan 2025)**  
-- Increased user engagement by **24%** through redesign and optimization.
-- Reduced QA time by **40%** with automated testing and robust CI/CD pipelines.
-- Ensured secure transactions using TLS and certificate pinning for 70K+ monthly transactions.
+### 🚀 [Rogers Bank App](https://play.google.com/store/apps/details?id=com.rogers.banking)  
+**Senior Android Developer @ Havas CX Canada**  
+📅 *May 2024 – Jan 2025*
+
+- 🔄 Led a full redesign + performance optimization, boosting user engagement by **24%**.
+- 🚀 Achieved faster delivery with automated testing & robust CI/CD — cutting QA time by **25%**.
+- 🔐 Implemented **TLS**, **certificate pinning**, and **AES** encryption — passing pen tests with flying colors.
+- 👨‍🏫 Mentored junior devs and led team knowledge-sharing sessions to foster continuous growth.
 
 ---
 
-### [Massive Events Management App](https://play.google.com/store/apps/details?id=com.ontracktechgroup.ontrack)  
-**Android Developer @ Scrinio LLC (Feb 2023 – May 2024)**  
-- Improved app performance by **30%** with baseline profiles and memory optimizations.
-- Engineered an offline sync mode, boosting productivity for users with limited connectivity.
-- Achieved **75% testing coverage**, ensuring high reliability and security.
+### 🎉 [Massive Events Management App](https://play.google.com/store/apps/details?id=com.ontracktechgroup.ontrack)  
+**Android Team Lead @ Scrinio LLC**  
+📅 *Feb 2022 – May 2024*
+
+- 🛠️ Built the app from scratch with **Jetpack Compose**, **Kotlin**, **Clean Architecture**, and **SOLID** principles.
+- 🎥 Added emergency video streaming with **H.264**, **RTSP**, and **ExoPlayer**.
+- ⚡ Boosted performance by **30%** using **baseline profiles** and smart memory management.
+- 📡 Enabled offline mode + sync with caching — crucial for real-time event reporting in low-connectivity zones.
+- 💬 Integrated **WebSockets** for real-time incident alerts — improving response speed in emergencies.
 
 ---
 
-### [Industrial Machines Software Layer](#)  
-**Android Developer (Fullstack) @ Electric Sanchez LLC (Oct 2021 – Feb 2023)**  
-- Built a custom AOSP for Raspberry Pi 4 tailored for industrial machines.
-- Achieved **100% compliance** with Google CTS, ensuring stability.
-- Developed real-time monitoring solutions using I2C protocol and GPIO pinout controls.
+### 🏭 Industrial Machines Software Layer (Raspberry Pi 4)  
+**Fullstack Android Developer @ Electric Sanchez LLC**  
+📅 *Oct 2021 – Feb 2022*
+
+- 🧱 Built a custom **Android AOSP** tailored for Raspberry Pi 4 and industrial machinery control.
+- ✅ Passed **100% Google CTS**, ensuring platform stability.
+- 📈 Delivered a stock management app to digitize machine lifecycle tracking from repair to resale.
+- 🧠 Reduced manual errors by **80%**, and cut machine turnaround time by **50%**.
+- 🔌 Integrated **I2C/SPI sensor monitoring** and **GPIO control** for real-time data + actuator management.
 
 ---
 
@@ -72,7 +82,6 @@
 
 ## 🌐 Let's Connect
 
-- **GitHub**: [Xget7](https://github.com/Xget7)  
 - **LinkedIn**: [xgetdev](https://www.linkedin.com/in/xgetdev/)  
 - **Email**: [juan.andr.devv@gmail.com](mailto:juan.andr.devv@gmail.com)  
 
