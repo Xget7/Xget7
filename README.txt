@@ -1,3 +1,3 @@
-Mobile Engineer at https://www.heyato.ai/.
+Mobile Engineer.
 
 Ship ship and more ship.
